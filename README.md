@@ -14,11 +14,11 @@ Database:- MYSQL for Storing Transaction history
 
 
 
-# Easy to Installed using executable file(.exe)
+# Easy to Install using executable file(.exe)
 
 ![Screenshot 2022-07-30 170902](https://user-images.githubusercontent.com/84500245/182027633-1c16938c-4697-4a5c-a562-b8a0e13c4a01.jpg)
 
-# Easy to open applicatin and use 
+# Easy to open application and use 
 # Loading Page
 ![Screenshot 2022-07-30 170235](https://user-images.githubusercontent.com/84500245/182027683-206a942b-4806-44c4-acae-9680d33a4c6f.jpg)
 
@@ -30,7 +30,7 @@ Database:- MYSQL for Storing Transaction history
 
 ![Screenshot 2022-07-30 171125](https://user-images.githubusercontent.com/84500245/182027865-2019f37c-8fe1-447e-8588-1be497bfa40c.jpg)
 
-# Forgot Passwprd Page
+# Forgot Password Page
 
 ![Screenshot 2022-07-30 171206](https://user-images.githubusercontent.com/84500245/182027877-d9a9cae5-00f4-48a2-9371-6b9aeaeab1cf.jpg)
 
